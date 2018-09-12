@@ -1,0 +1,1 @@
+Creating a virtual pet, that can eat, sleep, exercise, die and more.
