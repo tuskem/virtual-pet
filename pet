@@ -1,1 +1,7 @@
-const Pet = require('pet');
+
+
+function Pet(name) {
+    this.name = name;
+}
+
+module.exports = Pet;
